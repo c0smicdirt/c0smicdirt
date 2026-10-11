@@ -49,11 +49,12 @@ with applicable laws.
 
 - **[Book Cricket](https://scalinghuman.ai/apps/book-cricket)** — a nostalgic
   page-flip cricket game.
-- **[Ring Local](https://scalinghuman.ai/apps/ring-local.html)** and
-  **[Strap Local](https://scalinghuman.ai/apps/strap-local.html)** — independent,
-  personal-use projects for direct Oura Ring 4 and WHOOP 5.0 Bluetooth connections
-  to iPhone, with local data storage. Native apps and device validation are
-  pending.
+- **[Smart Ring Local](https://scalinghuman.ai/apps/ring-local.html)** — an
+  independent personal-use project for direct Oura Ring 4 Bluetooth to iPhone,
+  with local storage. Native app and device validation are pending.
+- **[Smart Strap Local](https://scalinghuman.ai/apps/strap-local.html)** — an
+  independent personal-use project for direct WHOOP 5.0 Bluetooth to iPhone,
+  with local storage. Native app and device validation are pending.
 
 ## Learning and upstream projects
 
@@ -66,7 +67,9 @@ app. Projects I maintain are listed in the directory above.
 
 - [Scaling Human](https://github.com/scalinghuman) - human capability amplified
   through thoughtful combinations of people, hardware, and AI.
-- [Open Substrate](https://github.com/opensubstrateio)
-- [Conscious Matter](https://github.com/consciousmatter)
+- [Open Substrate](https://github.com/opensubstrateio) — stealth research.
+  Ideas taking shape; more to share when ready.
+- [Conscious Matter](https://github.com/consciousmatter) — stealth research.
+  Ideas taking shape; more to share when ready.
 
 Project home: [scalinghuman.ai](https://scalinghuman.ai)
