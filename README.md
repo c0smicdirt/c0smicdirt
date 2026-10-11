@@ -4,7 +4,11 @@ I build personal experiments with hardware, AI, apps, games, and local computing
 exploring how machines can extend human perception, memory, judgment, and
 capability.
 
-> Human + Machines >> Human | Machines
+> Humans + Machines >> Humans | Machines
+
+**[Project directory](https://scalinghuman.ai/#projects)** ·
+[Scaling Human on GitHub](https://github.com/scalinghuman) ·
+[Project briefs and shared artifacts](https://github.com/scalinghuman/experiments/tree/main/docs/projects)
 
 ## Personal Experiments
 
@@ -15,6 +19,10 @@ sideload builds, source artifacts, or documentation; others remain private.
 
 [Explore the project directory](https://github.com/scalinghuman/experiments/tree/main/docs/projects)
 for each experiment's scope, available artifacts, and links.
+
+The [website repository](https://github.com/scalinghuman/website) maintains the
+public pages, privacy and support. The experiments repository keeps shared
+artifacts and downloads; private implementations are maintained separately.
 
 ### Available experiments
 
@@ -46,6 +54,13 @@ with applicable laws.
   personal-use projects for direct Oura Ring 4 and WHOOP 5.0 Bluetooth connections
   to iPhone, with local data storage. Native apps and device validation are
   pending.
+
+## Learning and upstream projects
+
+This account also includes forks and reference material for studying AI systems,
+local computing, software architecture and hardware. A fork preserves its
+upstream project's identity and license; it is not automatically a Scaling Human
+app. Projects I maintain are listed in the directory above.
 
 ## Organizations
 
