@@ -1,23 +1,51 @@
 # Srikantha Ballani
 
-I build experimental systems at the intersection of hardware and AI, exploring
-how machines can extend human perception, memory, judgment, and capability.
+I build personal experiments with hardware, AI, apps, games, and local computing,
+exploring how machines can extend human perception, memory, judgment, and
+capability.
 
 > Human + Machines >> Human | Machines
 
-## Current Work
+## Personal Experiments
 
-### [Scaling Human Experiments](https://github.com/scalinghuman/experiments)
+[Scaling Human Experiments](https://github.com/scalinghuman/experiments) is my
+collection of exploratory projects for learning and personal use. It is not a
+paid product or subscription service. Some experiments are shared as free apps,
+sideload builds, source artifacts, or documentation; others remain private.
 
-Personal and exploratory Hardware + AI projects, including:
+[Explore the project directory](https://github.com/scalinghuman/experiments/tree/main/docs/projects)
+for each experiment's scope, available artifacts, and links.
 
-- **Food Scanner**, an iPhone-first food analysis app with an optional Google
-  Glass Explorer Edition companion.
-- **Glasshole**, an iPhone-first conversation transcription, summarization, and
-  AI-assisted claim-checking app with an optional Glass companion.
+### Available experiments
 
-Both iOS apps are being prepared for free distribution through the Apple App
-Store. The Glass companions will be available from the project repository.
+- **[Food Scanner](https://scalinghuman.ai/apps/foodscanner)** — food-photo
+  analysis on iPhone, with an optional Google Glass companion.
+  [Free on the App Store](https://apps.apple.com/us/app/food-scanner-ai-overlay/id6790629113).
+- **[Glasshole AI](https://scalinghuman.ai/apps/glasshole)** — conversation
+  transcription, summaries, and AI-assisted claim checking on iPhone, with an
+  optional Glass companion.
+  [Free on the App Store](https://apps.apple.com/us/app/glasshole-ai-for-google-glass/id6784266697).
+- **[Kids Meal Mode](https://scalinghuman.ai/apps/streaming-devices-kids-meal-mode)**
+  — a personal/family Fire TV and Android TV meal-prompt experiment, available
+  as a sideload build.
+- **[Local AI game experiment](https://scalinghuman.ai/apps/qwen38-27b-eval)** —
+  an offline local-model experiment that produced a self-contained browser game.
+
+The Google Glass companions and installation guide are available in the
+[experiments repository](https://github.com/scalinghuman/experiments). Private
+iPhone source is maintained separately. AI estimates and claim checks can be
+wrong; use recording features only with participant consent and in accordance
+with applicable laws.
+
+### In development
+
+- **[Book Cricket](https://scalinghuman.ai/apps/book-cricket)** — a nostalgic
+  page-flip cricket game.
+- **[Ring Local](https://scalinghuman.ai/apps/ring-local.html)** and
+  **[Strap Local](https://scalinghuman.ai/apps/strap-local.html)** — independent,
+  personal-use projects for direct Oura Ring 4 and WHOOP 5.0 Bluetooth connections
+  to iPhone, with local data storage. Native apps and device validation are
+  pending.
 
 ## Organizations
 
@@ -26,4 +54,4 @@ Store. The Glass companions will be available from the project repository.
 - [Open Substrate](https://github.com/opensubstrateio)
 - [Conscious Matter](https://github.com/consciousmatter)
 
-Project home: [scalinghuman.ai](https://scalinghuman.ai) (coming soon)
+Project home: [scalinghuman.ai](https://scalinghuman.ai)
