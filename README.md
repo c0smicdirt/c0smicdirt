@@ -24,7 +24,7 @@ The [website repository](https://github.com/scalinghuman/website) maintains the
 public pages, privacy and support. The experiments repository keeps shared
 artifacts and downloads; private implementations are maintained separately.
 
-### Available experiments
+### Available projects and contributions
 
 - **[Food Scanner](https://scalinghuman.ai/apps/foodscanner)**: food-photo
   analysis on iPhone, with an optional Google Glass companion.
@@ -38,6 +38,9 @@ artifacts and downloads; private implementations are maintained separately.
   as a sideload build.
 - **[Local AI game experiment](https://scalinghuman.ai/apps/qwen38-27b-eval)**:
   an offline local-model experiment that produced a self-contained browser game.
+
+- **[RT Library](https://scalinghuman.ai/apps/rt-library)**: an iPhone and iPad
+  book catalog for the Riviera Towers community library.
 
 The Google Glass companions and installation guide are available in the
 [experiments repository](https://github.com/scalinghuman/experiments). Private
@@ -72,4 +75,5 @@ app. Projects I maintain are listed in the directory above.
 - [Conscious Matter](https://github.com/consciousmatter): stealth research.
   Ideas taking shape; more to share when ready.
 
-Project home: [scalinghuman.ai](https://scalinghuman.ai)
+Project home: [scalinghuman.ai](https://scalinghuman.ai) ·
+[LinkedIn](https://www.linkedin.com/in/c0smicdirt)
